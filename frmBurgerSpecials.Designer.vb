@@ -104,7 +104,6 @@ Partial Class frmBurgers
         'btnExit
         '
         Me.btnExit.BackColor = System.Drawing.Color.Wheat
-        Me.btnExit.Enabled = False
         Me.btnExit.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btnExit.Location = New System.Drawing.Point(328, 494)
         Me.btnExit.Name = "btnExit"
